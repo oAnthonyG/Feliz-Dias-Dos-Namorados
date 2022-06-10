@@ -1,0 +1,9 @@
+:root {
+  --Rosa-Forte: hsl(286, 54%, 48%);
+  --Rosa-Fraco: hsl(350, 100%, 88%);
+  --Background: hsl(350, 100%, 95%); 
+  --Background2: hsl(350, 100%, 88%);
+  --Preto: hsl(0, 0%, 0%);
+  --Branco: hsl(0, 0%, 100%);
+  --Polaroid: hsl(0, 0%, 92%);
+}

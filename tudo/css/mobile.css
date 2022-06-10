@@ -1,0 +1,247 @@
+@media screen and (max-width: 575px){
+    .header h2{
+        font-size: 25px;
+    }
+    .textoPrincipal h1{
+        font-size: 45px;
+    }
+    .voltar {
+        margin-left: 38%;
+    }
+    footer h2{
+        font-size: 20px;
+        margin: 0;
+    }
+    footer h6{
+        font-size: 35px;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 375px){
+    
+    footer h6{
+        font-size: 25px;
+        margin: 0;
+    }
+}
+
+/* MOMENTOS.HTML*/
+@media screen and (max-width: 575px){
+    .titulo-momentos .titulo{
+        font-size: 40px;
+    }
+
+    .main-mobile{
+        padding: 0;
+        padding-top: 15px;
+    }
+
+    .fotosEsquerda{
+        margin-top: 20px;
+      }
+      .fotoEsquerda{
+          margin-left: 0;
+      }
+      .textoDireita{
+          margin: 0;
+          margin-left: 10px;
+      }
+      .imagensEsquerda{
+          margin-left: 30px;
+      }
+
+      .fotoDireita{
+          margin: 0;
+      }
+
+      .imagensDireita{
+          margin: 0;
+          margin-left: 60px;
+      }
+      .textoEsquerda{
+          margin: 20px;
+      }
+}
+@media screen and (max-width: 375px){
+    .fotosEsquerda{
+        margin: 0;
+        
+      }
+      .fotoEsquerda{
+    
+        margin-left: 0;
+    }
+    .textoDireita{
+        margin: 0;
+        margin-left: 0;
+    }
+    .imagensEsquerda{
+        margin-left: 0;
+    }
+
+    .fotoDireita{
+        margin: 0;
+    }
+
+    .imagensDireita{
+        margin: 0;
+        
+    }
+    .textoEsquerda{
+        margin: 0;
+        margin-top: 20px;
+    }
+
+}
+
+/* OBJETIVOS.HTML */
+@media screen and (max-width: 575px){
+    h1{
+        font-size: 25px;
+        text-align: center;
+    }
+    .nav4{
+        
+        margin-left: 60px;
+        margin-top: 20px;
+
+        padding: 0;
+    }
+    .itens{
+        width: 260px;
+        padding: 10px 50px;
+    }
+    .itens2{
+        width: 260px;
+        padding: 10px 10px;
+    }
+    .itens3{
+        width: 260px;
+        padding: 10px 50px;
+    }
+    .itens4{
+        width: 260px;
+        padding: 10px 50px;
+    }
+    .itens5{
+        width: 260px;
+        padding: 10px 50px;
+    }
+
+    .img1{
+
+        display: none;
+    }
+    .img2{
+
+        display: none;
+    }
+    .img3{
+
+        display: none;
+    }
+    .img4{
+
+        display: none;
+    }
+    .img5{
+
+        display: none;
+    }
+}
+/* BILHETES.HTML    */
+@media screen and (max-width: 575px){
+    .bilhete{
+        margin: 20px;
+        margin-right: 10px;
+    }
+    .voltar{
+        margin-left: 20px;
+    }
+}
+
+/*MOTIVOS MUSICA */
+@media screen and (max-width: 575px){
+    .nav3{
+        margin: 0;
+    }
+    .videos{
+        display: block;
+    }
+    .video{
+        margin: 0;
+        margin-left: 20px;
+        width: 330px;
+        height: 200px;
+    }
+    .paragrafo1{
+        margin: 20px;
+    }
+    .paragrafo2{
+        margin: 20px;
+    }
+    .videoDireita{
+        margin: 0;
+        margin-left: 20px;
+        width: 330px;
+        height: 200px;
+
+    }
+    .paragrafo3{
+        margin: 20px;
+    }
+    .paragrafo4{
+        margin: 20px;
+    }
+    
+    .paragrafo5{
+        margin: 20px;
+    }
+    .paragrafo6{
+        margin: 20px;
+    }
+    .paragrafo7{
+        margin: 20px;
+    }
+    .paragrafo8{
+        margin: 20px;
+    }
+    .paragrafo9{
+        margin: 20px;
+    }
+    .paragrafo10{
+        margin: 20px;
+    }
+    .paragrafo11{
+        margin: 20px;
+    }
+    .paragrafo12{
+        margin: 20px;
+    }
+    .paragrafo13{
+        margin: 20px;
+    }
+    .paragrafo14{
+        margin: 20px;
+    }
+    .paragrafo15{
+        margin: 20px;
+    }
+    .paragrafo16{
+        margin: 20px;
+    }
+    .paragrafo17{
+        margin: 20px;
+    }
+    .paragrafo18{
+        margin: 20px;
+    }
+    .paragrafo19{
+        margin: 20px;
+    }
+    .paragrafo20{
+        margin: 20px;
+    }
+
+}
